@@ -62,7 +62,7 @@ In this project, I employ a machine learning based technique, Truncated Marginal
 ### **Holographic derivation of the island formula for reflected entropy** `2021.1 - 2021.8`
 
 _Undergraduate Research  &nbsp;&nbsp;&nbsp;&nbsp;  Advisor: Prof. Yang Zhou_<br>
-This research produces the publication 1 & 2. We employ the quantum gravity model proposed in our previous work to give a holographic derivation of the island formula for reflected entropy. More precisely, we demonstrate that the entropy calculated on the boundary side is equivalent to a bulk quantity called "defect extremal cross section" by combining the partial Randall-Sundrum reduction and holographic duality. We find perfect agreement in both static and time-dependent scenarios. 
+This research produces the publications 1 & 2. We employ the quantum gravity model proposed in our previous work to give a holographic derivation of the island formula for reflected entropy. More precisely, we demonstrate that the entropy calculated on the boundary side is equivalent to a bulk quantity called "defect extremal cross section" by combining the partial Randall-Sundrum reduction and holographic duality. We find perfect agreement in both static and time-dependent scenarios. 
 
 
 ### **Machine learning of phase transitions in spin models** `2019.8 - 2019.12`
